@@ -1,4 +1,6 @@
 # collections <br>
 #java 集合<br>
 #### collection 接口<br>
-List set queue
+1.list
+2.set
+3.queue
